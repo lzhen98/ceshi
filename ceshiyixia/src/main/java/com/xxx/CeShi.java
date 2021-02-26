@@ -6,5 +6,6 @@ public class CeShi {
 		System.out.println("第一次" );
 		System.out.println("第一次失败，第二次测试");
 		System.out.println("第三次测试");
+		System.out.println(12243);
 	}
 }
